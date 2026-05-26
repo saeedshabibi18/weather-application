@@ -177,3 +177,5 @@ The pipeline uses a **stop → pull → start** rolling strategy:
 | Docker Hub | Container registry |
 | AWS EC2 | Cloud hosting |
 | OpenWeatherMap API | Weather data |
+
+# Deployed via CI/CD Pipeline
