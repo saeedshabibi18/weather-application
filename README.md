@@ -1,5 +1,5 @@
 # ⛅ Weather CI/CD App
-##https://techcode.online/
+## https://techcode.online/
 
 A production-grade Flask weather application deployed via a **3-stage CI/CD pipeline** using GitHub Actions, Docker Hub, and AWS EC2.
 
