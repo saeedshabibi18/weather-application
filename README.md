@@ -180,6 +180,4 @@ The pipeline uses a **stop → pull → start** rolling strategy:
 | OpenWeatherMap API | Weather data |
 
 # Deployed via CI/CD Pipeline
-
-
 End ..
